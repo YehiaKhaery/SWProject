@@ -1,5 +1,5 @@
 %h1 Home
-<h1>Master Degree System</h1>
+<h1>Master Degree System<h1/>
 = link_to "Programs", program_classes_path
 %br
 %br
